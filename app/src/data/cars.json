@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+    "label": "Ford",
+    "models": [
+      {
+        "label": "Focus"
+      },
+      {
+        "label": "Montero"
+      },
+      {
+        "label": "Fiesta"
+      }
+    ]
+    }, {
+      "label": "Honda",
+      "models": [
+        {
+          "label": "Civic"
+        },
+        {
+          "label": "Accord"
+        },
+        {
+          "label": "Clarity"
+        }
+      ]
+    }
+  ]
+}
+

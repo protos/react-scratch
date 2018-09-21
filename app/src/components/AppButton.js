@@ -4,7 +4,7 @@ class AppButton extends Component {
     render() {
         if (this.props.disabled) {
             return (
-                <button className="AppButton" disabled >{this.props.label}</button>
+                <button className="AppButton" disabled>{this.props.label}</button>
             );
         } else {
             return (
